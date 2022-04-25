@@ -20,7 +20,7 @@ This extension is a fork of [SebastianLuebke/improved-osk-gnome-ext](https://git
 Clone the git repo
 
 ```console
-git clone https://github.com/nick-shmyrev/improved-osk-gnome-ext.git ~/.local/share/gnome-shell/extensions/improvedosk@nick-shmyrev.dev
+git clone https://github.com/ojdon/tablet-osk-gnome.git ~/.local/share/gnome-shell/extensions/tabletosk@ojdon
 ```
 
 ### From extensions.gnome.org
